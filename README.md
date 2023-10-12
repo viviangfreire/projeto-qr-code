@@ -32,5 +32,7 @@ Projeto feito com o intuito de exercitar HTML5 e CSS e me desafiar a achar a res
 
 ## Autora
 
-- LinkedIn - [Vivian Freire](www.linkedin.com/in/vivian-gfreire)
+- GitHub - [vivian-gfreire](https://github.com/viviangfreire)
+- LinkedIn - [viviangfreire](www.linkedin.com/in/vivian-gfreire)
+
 
